@@ -1,0 +1,12 @@
+{
+  "name": "gobarber-app",
+  "displayName": "gobarber-app",
+  "expo": {
+    "name": "gobarber-app",
+    "slug": "gobarber-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
